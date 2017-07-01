@@ -1,0 +1,11 @@
+This example project shows how you can detect glitches using
+the Logic Analyzer in the µVision Simulator.  Glitches are an
+effect of I/O port settings. The increase dramatically the EMC 
+behaviour of electronic equipment and are often hard to detect.
+
+When using the uVision Logic Analyzer these glitches are easy
+to see in the Logic Analyzer Window when you select the display 
+types:
+
+- State: which shows a signal as a state diagram
+- Bit:   that shows just a single I/O pin value
